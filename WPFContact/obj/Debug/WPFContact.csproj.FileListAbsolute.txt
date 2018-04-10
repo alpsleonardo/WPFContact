@@ -1,0 +1,15 @@
+C:\Users\Leonardo\documents\visual studio 2017\Projects\WPFContact\WPFContact\bin\Debug\WPFContact.exe.config
+C:\Users\Leonardo\documents\visual studio 2017\Projects\WPFContact\WPFContact\bin\Debug\WPFContact.exe
+C:\Users\Leonardo\documents\visual studio 2017\Projects\WPFContact\WPFContact\bin\Debug\WPFContact.pdb
+C:\Users\Leonardo\documents\visual studio 2017\Projects\WPFContact\WPFContact\obj\Debug\WPFContact.csprojResolveAssemblyReference.cache
+C:\Users\Leonardo\documents\visual studio 2017\Projects\WPFContact\WPFContact\obj\Debug\MainWindow.g.cs
+C:\Users\Leonardo\documents\visual studio 2017\Projects\WPFContact\WPFContact\obj\Debug\App.g.cs
+C:\Users\Leonardo\documents\visual studio 2017\Projects\WPFContact\WPFContact\obj\Debug\WPFContact_MarkupCompile.cache
+C:\Users\Leonardo\documents\visual studio 2017\Projects\WPFContact\WPFContact\obj\Debug\WPFContact_MarkupCompile.lref
+C:\Users\Leonardo\documents\visual studio 2017\Projects\WPFContact\WPFContact\obj\Debug\MainWindow.baml
+C:\Users\Leonardo\documents\visual studio 2017\Projects\WPFContact\WPFContact\obj\Debug\WPFContact.g.resources
+C:\Users\Leonardo\documents\visual studio 2017\Projects\WPFContact\WPFContact\obj\Debug\WPFContact.Properties.Resources.resources
+C:\Users\Leonardo\documents\visual studio 2017\Projects\WPFContact\WPFContact\obj\Debug\WPFContact.csproj.GenerateResource.Cache
+C:\Users\Leonardo\documents\visual studio 2017\Projects\WPFContact\WPFContact\obj\Debug\WPFContact.csproj.CoreCompileInputs.cache
+C:\Users\Leonardo\documents\visual studio 2017\Projects\WPFContact\WPFContact\obj\Debug\WPFContact.exe
+C:\Users\Leonardo\documents\visual studio 2017\Projects\WPFContact\WPFContact\obj\Debug\WPFContact.pdb

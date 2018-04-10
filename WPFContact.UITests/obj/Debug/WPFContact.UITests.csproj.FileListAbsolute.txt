@@ -1,0 +1,13 @@
+C:\Users\Leonardo\documents\visual studio 2017\Projects\WPFContact\WPFContact.UITests\obj\Debug\WPFContact.UITests.csprojResolveAssemblyReference.cache
+C:\Users\Leonardo\documents\visual studio 2017\Projects\WPFContact\WPFContact.UITests\obj\Debug\WPFContact.UITests.csproj.CoreCompileInputs.cache
+C:\Users\Leonardo\documents\visual studio 2017\Projects\WPFContact\WPFContact.UITests\bin\Debug\WPFContact.UITests.dll
+C:\Users\Leonardo\documents\visual studio 2017\Projects\WPFContact\WPFContact.UITests\bin\Debug\WPFContact.UITests.pdb
+C:\Users\Leonardo\documents\visual studio 2017\Projects\WPFContact\WPFContact.UITests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Leonardo\documents\visual studio 2017\Projects\WPFContact\WPFContact.UITests\bin\Debug\WPFContact.Model.exe
+C:\Users\Leonardo\documents\visual studio 2017\Projects\WPFContact\WPFContact.UITests\bin\Debug\WPFContact.UI.exe
+C:\Users\Leonardo\documents\visual studio 2017\Projects\WPFContact\WPFContact.UITests\bin\Debug\WPFContact.Model.pdb
+C:\Users\Leonardo\documents\visual studio 2017\Projects\WPFContact\WPFContact.UITests\bin\Debug\WPFContact.Model.exe.config
+C:\Users\Leonardo\documents\visual studio 2017\Projects\WPFContact\WPFContact.UITests\bin\Debug\WPFContact.UI.pdb
+C:\Users\Leonardo\documents\visual studio 2017\Projects\WPFContact\WPFContact.UITests\bin\Debug\WPFContact.UI.exe.config
+C:\Users\Leonardo\documents\visual studio 2017\Projects\WPFContact\WPFContact.UITests\obj\Debug\WPFContact.UITests.dll
+C:\Users\Leonardo\documents\visual studio 2017\Projects\WPFContact\WPFContact.UITests\obj\Debug\WPFContact.UITests.pdb
